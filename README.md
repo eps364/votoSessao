@@ -120,7 +120,6 @@ Response
 ```
 
 # Links:
-* [Link da API hospedada no Heroku](https://votosessao.herokuapp.com/)
 * [Link do Projeto](https://github.com/eps364/VotoSessao)
 
 
